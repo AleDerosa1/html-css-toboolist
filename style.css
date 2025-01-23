@@ -9,3 +9,9 @@ body{
 .container-header{
     background-color: white;
 }
+.button-one{
+    background-color: blue;
+}
+button{
+    border-radius: 5px;
+}
